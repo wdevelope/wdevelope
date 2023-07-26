@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wdevelope&show_icons=true&theme=radical)
 
-- HTML: ![HTML](https://img.shields.io/badge/-HTML-orange)
-- CSS: ![CSS](https://img.shields.io/badge/-CSS-blue)
-- JavaScript: ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-- Node.js: ![Node.js](https://img.shields.io/badge/-Node.js-green)
-- TypeScript: ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+ ![HTML](https://img.shields.io/badge/-HTML-orange) 
+ ![CSS](https://img.shields.io/badge/-CSS-blue)
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+ ![Node.js](https://img.shields.io/badge/-Node.js-green)
+ ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
