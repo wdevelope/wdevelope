@@ -16,3 +16,4 @@
  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
  ![Node.js](https://img.shields.io/badge/-Node.js-green)
  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+ ![vue.js](https://img.shields.io/badge/-vue.js-blue)
