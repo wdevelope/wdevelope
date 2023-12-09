@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🌱 I’m currently studying to become a Node.js backend developer.
-- 🤔 I want to know how to become a clean coder.
-- 📫 How to reach me: dnqkr18@naver.com
-- ⚡ Fun fact: ...
+- 🌱 풀스택이 목표인 주니어개발자입니다.
+- 🤔 클린코더가 되길 희망합니다.
+- 📫 email: dnqkr18@naver.com
+- ⚡ Fun fact: 캠핑 등산 헬스
 
 
 
