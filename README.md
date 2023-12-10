@@ -5,12 +5,10 @@
 - 📫 email: dnqkr18@naver.com
 - ⚡ Fun fact: 캠핑 등산 헬스
 
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-
 <br />
 
+ ![javascript](https://img.shields.io/badge/-javascript-yellow)
+ ![typescript](https://img.shields.io/badge/-typescript-blue)
  ![Node.js](https://img.shields.io/badge/-Node.js-green)
  ![vue.js](https://img.shields.io/badge/-vue.js-green)
+
