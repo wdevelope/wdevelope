@@ -7,8 +7,12 @@
 
 <br />
 
- ![javascript](https://img.shields.io/badge/-javascript-yellow)
- ![typescript](https://img.shields.io/badge/-typescript-blue)
- ![Node.js](https://img.shields.io/badge/-Node.js-green)
- ![vue.js](https://img.shields.io/badge/-vue.js-green)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wdevelope&show_icons=true&theme=radical)
+
+<br />
+
+![javascript](https://img.shields.io/badge/-javascript-yellow)
+![typescript](https://img.shields.io/badge/-typescript-blue)
+![Node.js](https://img.shields.io/badge/-Node.js-green)
+![vue.js](https://img.shields.io/badge/-vue.js-green)
 
