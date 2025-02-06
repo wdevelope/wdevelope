@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 TS 풀스택 개발자입니다.
+- 🌱 Node, Nest를 좋아하는 백엔드 개발자입니다.
 - 🤔 효율적인 코드에 대해 항상 고민합니다.
 - 📫 email: dnqkr18@naver.com
 
@@ -13,5 +13,5 @@
 ![javascript](https://img.shields.io/badge/-javascript-yellow)
 ![typescript](https://img.shields.io/badge/-typescript-blue)
 ![Node.js](https://img.shields.io/badge/-Node.js-green)
-![vue.js](https://img.shields.io/badge/-vue.js-green)
+
 
