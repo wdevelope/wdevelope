@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Node, Nest를 좋아하는 백엔드 개발자입니다.
+- 🌱 TS 풀스택 개발자입니다.
 - 🤔 효율적인 코드에 대해 항상 고민합니다.
 - 📫 email: dnqkr18@naver.com
 
