@@ -1,16 +1,8 @@
-# 효율적인 코드를 추구하는 풀스택 개발자입니다
+# TS full-stack developer with a passion for efficient and intuitive code
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;TypeScript+%26+Node.js+Enthusiast;Always+Learning+New+Things;Building+Efficient+Solutions" alt="Typing SVG" />
 </div>
-
-## 🚀 About Me
-
-- 🔭 **현재 집중하고 있는 것**: TypeScript 기반 풀스택 애플리케이션 개발
-- 🌱 **학습 중**: 최신 React 패턴, Node.js 성능 최적화, 클린 아키텍처
-- 💡 **개발 철학**: 사용자 중심의 효율적이고 유지보수 가능한 코드 작성
-- 🎯 **목표**: 더 나은 사용자 경험을 제공하는 혁신적인 솔루션 개발
-- 📫 **연락처**: dnqkr18@naver.com
 
 <br>
 
