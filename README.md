@@ -1,4 +1,4 @@
-# 안녕하세요! 👋 효율적인 코드를 추구하는 풀스택 개발자입니다
+# 효율적인 코드를 추구하는 풀스택 개발자입니다
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;TypeScript+%26+Node.js+Enthusiast;Always+Learning+New+Things;Building+Efficient+Solutions" alt="Typing SVG" />
