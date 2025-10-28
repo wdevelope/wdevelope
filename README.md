@@ -30,12 +30,7 @@
 <br>
 
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wdevelope&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
-</div>
 
-<br>
 
 ## 📈 활동 그래프
 <div align="center">
