@@ -4,8 +4,10 @@
 
 ## 🙋 About Me
 
-Engineer with a maker’s mindset. I love the thrill of taking an idea from zero to one.
-My strength lies in my ability to navigate the full development spectrum—designing architectures, writing code, and deploying to production. When I spot a problem, I don't just analyze it; I build the solution.
+I’m a full-stack developer specializing in digital healthcare.
+With dual majors in optometry/opticianry and computer engineering, I bring interdisciplinary expertise across both fields.
+
+I work end-to-end—from planning and UX/design to development, deployment, and operations—taking ownership of the entire journey from problem definition to solution design to productization. 
 
 <br>
 
