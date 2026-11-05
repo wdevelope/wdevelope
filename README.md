@@ -25,7 +25,7 @@
 ## 🧩 개인 프로젝트 · 오픈소스
 
 - [**fullstack-monorepo-starter**](https://github.com/wdevelope/fullstack-monorepo-starter): oRPC 계약 하나로 서버·웹·데스크톱(Electron)·모바일(Expo)을 묶은 TypeScript 모노레포. refresh 토큰 회전·재사용 감지 인증, 명세 ↔ 테스트 연결 검사, 테스트 먼저 강제 훅까지 포함
-- [**w-life**](https://www.w-owen.com): 운영 중인 개인 블로그. Next.js 16 + Supabase, 정적·ISR 공개 화면, RLS로 비공개 글 격리, 작성 칸에 바로 서식이 보이는 마크다운 에디터
+- [**w-life**](https://github.com/wdevelope/myblog) ([사이트](https://www.w-owen.com)): 운영 중인 개인 블로그. Next.js 16 + Supabase, 정적·ISR 공개 화면, RLS로 비공개 글 격리, 작성 칸에 바로 서식이 보이는 마크다운 에디터
 - [**WKI**](https://github.com/wdevelope/wki) ([사용해 보기](https://wdevelope.github.io/wki/)): FSRS 간격 반복으로 영어 단어 2,809개를 외우는 오프라인 PWA
 - [nativewind/nativewind#1869](https://github.com/nativewind/nativewind/pull/1869): React Native 스타일 라이브러리의 메모리 초과(OOM) 원인을 지수적 재귀로 찾아 수정 제안 (리뷰 중)
 
