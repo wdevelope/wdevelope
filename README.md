@@ -1,4 +1,4 @@
-# 우성원 | 풀스택 개발자
+# Owen | 풀스택 개발자
 
 안경사로 일하다 개발자가 되었고, 지금은 헬스케어 스타트업에서 제품을 기획부터 배포·운영까지 혼자 만들고 있습니다.
 
@@ -15,38 +15,10 @@
 
 <br>
 
-## 💼 회사 프로젝트
+## 💼 경력
 
-### Preznel ALY · ICU비전케어 — 안경원 운영 SaaS와 고객 앱
-
-아이씨유코퍼레이션 · 2025.07 ~ 현재
-
-- 검안·판매·재고·재무·통계 등 30여 개 업무 영역을 갖춘 안경원 CRM. 본사·직영·가맹 지점에서 고객 수만 명 대상으로 운영 중
-- 고객 앱 **ICU비전케어**를 기획·디자인부터 iOS·Android 출시까지 진행하고, XGBoost 근시 진행 예측 모델을 검안 화면과 앱에 연동
-- 중복 결제·재고 이중 복구·문자 중복 발송을 트랜잭션과 유니크 인덱스로 막고, refresh 토큰 회전·재사용 감지·2단계 인증으로 고객 정보 보호
-- 회사·브랜드 웹사이트: [ICU비전케어](https://www.icuvc.kr) · [ICU코퍼레이션](https://www.icucorp.kr)
-
-`TypeScript` `React` `React Native(Expo)` `Express` `MongoDB` `FastAPI` `AWS`
-
-### Preznel REF — VR 사시·사위 진단 및 시기능 훈련 플랫폼
-
-아이씨유코퍼레이션 · 2026.06 ~ 현재
-
-- 환자용 VR 앱(Galaxy XR·Meta Quest), 중계 서버, 검사자용 데스크톱 대시보드를 모두 개발 (서버 테스트 커버리지 95%)
-- HMD 화면을 WebRTC P2P로 실시간 스트리밍하고 TURN으로 외부 네트워크를 중계해, 대시보드 1대에서 HMD 최대 9대 동시 모니터링
-- 미국 샌프란시스코 **TechCrunch Disrupt 2026** 부스에서 제품 시연
-
-`Unity(C#)` `Electron` `Node.js` `WebRTC` `MongoDB` `OpenAI API`
-
-### EDMS · ATLAN — 선박 관리 플랫폼
-
-Vesselhubnet · 2024.01 ~ 2025.01
-
-- Node.js 서버 5종(통합 계정·선박 규정·도면·윤활유·선박 위치)을 단독 개발하고, 대형 해운사의 규정 관리 시스템(EDMS)을 납품
-- 공유 도메인 쿠키 기반 통합 로그인(SSO)과 회사·조직·직급별 권한 관리, 토스페이먼츠 결제 연동
-- 미국 기상청(NOAA) 데이터를 하루 2,400만 건씩 TimescaleDB에 적재하고, 지도 범위·줌 레벨 기반 조회 API 구현
-
-`NestJS` `Express` `PostgreSQL(TimescaleDB)` `MongoDB` `AWS`
+- **헬스케어 스타트업 · 풀스택 개발자** (2025.05 ~ 현재): 안경원 운영 SaaS와 고객 앱, VR 시기능 진단·훈련 플랫폼(TechCrunch Disrupt 2026 시연), 근시 진행 예측 모델, 회사 웹사이트([icuvc.kr](https://www.icuvc.kr), [icucorp.kr](https://www.icucorp.kr))
+- **해운 IT 기업 · 백엔드 개발자** (2024.01 ~ 2025.01): 선박 관리 플랫폼 서버 5종, 통합 로그인(SSO)·권한 관리, 기상 데이터 파이프라인(하루 2,400만 건)
 
 <br>
 
