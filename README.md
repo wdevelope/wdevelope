@@ -2,7 +2,7 @@
 
 안경사로 일하다 개발자가 되었고, 지금은 헬스케어 스타트업에서 제품을 기획부터 배포·운영까지 혼자 만들고 있습니다.
 
-[블로그](https://www.w-owen.com) · [LinkedIn](https://www.linkedin.com/in/seongwon-woo-4a11092a7/) · dnqkr18@gmail.com
+[블로그](https://www.w-owen.com) · [LinkedIn](https://www.linkedin.com/in/seongwon-woo/) · dnqkr18@gmail.com
 
 <br>
 
