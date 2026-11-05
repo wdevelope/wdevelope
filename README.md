@@ -56,9 +56,22 @@ Five backend services for a B2B vessel management platform, including EDMS, a sy
 
 <br>
 
+### 🌐 Company Websites
+
+- [ICU Vision Care](https://www.icuvc.kr) (`Next.js`) and [ICU Corporation](https://www.icucorp.kr) (`Astro`)
+
+<br>
+
 ## 🔓 Open Source
 
 - [nativewind/nativewind#1869](https://github.com/nativewind/nativewind/pull/1869): root-caused an out-of-memory crash (exponential recursion in react-native-css-interop) and submitted a fix (in review)
+
+<br>
+
+## 🧩 Side Projects
+
+- [**WKI**](https://github.com/wdevelope/wki) ([live](https://wdevelope.github.io/wki/)): offline-first PWA for learning the 2,809 NGSL words with FSRS spaced repetition; data stays in IndexedDB, 61 Vitest tests, deployed to GitHub Pages by CI. `React 19` `TypeScript` `Dexie` `Vite PWA`
+- Study notes: [React Hooks](https://github.com/wdevelope/react_hook_study), [Node.js Design Patterns](https://github.com/wdevelope/Node.js-design-pattern-bible)
 
 <br>
 
