@@ -1,4 +1,4 @@
-# Seongwon Woo | 풀스택 개발자
+# 🙋 Seongwon Woo | 풀스택 개발자
 
 안경사로 일하다 개발자가 되었고, 지금은 헬스케어 스타트업에서 안경원 운영 SaaS와 고객용 앱, VR 진단·훈련 플랫폼을 만들고 있습니다.
 
@@ -7,6 +7,7 @@
 AI 에이전트를 개발에 활용하며, 명세와 테스트를 연결하고 훅·CI로 변경 사항을 검증하는 작업 흐름을 직접 구성해 사용하고 있습니다.
 
 [블로그](https://www.w-owen.com) · [LinkedIn](https://www.linkedin.com/in/seongwon-woo/) · dnqkr18@gmail.com
+
 
 ## 💼 경력
 
@@ -20,6 +21,7 @@ AI 에이전트를 개발에 활용하며, 명세와 테스트를 연결하고 �
 `2024.01` ~ `2025.01`
 - 선박 관리 플랫폼 서버 `5종` 개발
 - 통합 로그인(SSO)·권한 관리 및 하루 `2,400만 건` 규모의 기상 데이터 파이프라인 구축
+
 
 ## 🧩 개인 프로젝트 · 오픈소스
 
@@ -35,11 +37,13 @@ AI 에이전트를 개발에 활용하며, 명세와 테스트를 연결하고 �
 - [**NativeWind 메모리 초과 문제 수정 제안**](https://github.com/nativewind/nativewind/pull/1869)  
   지수적으로 증가하는 재귀 호출을 원인으로 분석하고 수정안을 제안했습니다.
 
+
 ## 🛠️ 주요 기술
 
 - **웹·서버:** TypeScript, React, Next.js, Node.js, PostgreSQL
 - **앱·VR:** React Native(Expo), Electron, C#, Unity
 - **인프라·테스트:** AWS, Docker, GitHub Actions, Vitest, Playwright
+
 
 ## 🎓 학력·자격
 
