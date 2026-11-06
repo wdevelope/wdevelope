@@ -43,7 +43,7 @@ AI 에이전트를 개발에 활용하며, 명세와 테스트를 연결하고 �
 
 ## 🛠️ 주요 기술
 
-- **웹·서버:** TypeScript, React, Next.js, Node.js, PostgreSQL
+- **웹·서버:** TypeScript, React, Next.js, Node.js
 - **앱·VR:** React Native(Expo), Electron, C#, Unity
 - **인프라·테스트:** AWS, Docker, GitHub Actions, Vitest, Playwright
 
